@@ -7,6 +7,7 @@ setup(
     install_requires=[
         "beautifulsoup4>=4.9.3",
         "requests>=2.26.0",
+        "openai==0.27.2",
     ],
     author="Filip Maric",
     description="A simple Hacker News scraper and GUI that displays post summaries using GPT.",

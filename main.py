@@ -75,7 +75,6 @@ def get_summary():
 
 
 if __name__ == "__main__":
-    print(os.getenv("OPENAI_API_KEY"))
     app = tk.Tk()
     app.title("Hacker News Summaries")
 
