@@ -16,24 +16,24 @@ This is a simple Python project that scrapes the comments of top hackernews post
 
 1. Clone the repository:
 
-\```bash
+```bash
 git clone https://github.com/filipmrc/hn-summaries.git
-\```
+```
 
 2. Install the required packages:
 
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 **Note:** If you're using a standard Python installation, the `tkinter` package should already be included. However, if you're using a Python distribution that doesn't include `tkinter` by default (such as some Linux distributions), you might need to install it separately.
 
 ## Usage
 1. Set the OPENAI_API_KEY env variable to your API key
 
-\```bash
+```bash
 export OPENAI_API_KEY="<your key here>"
-\```
+```
 
 2. Run the script:
 
