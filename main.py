@@ -84,7 +84,7 @@ if __name__ == "__main__":
     # create GUI elements
     num_posts_label_frame = tk.Frame(app)
     num_posts_label_frame.pack()
-    num_posts_label = tk.Label(num_posts_label_frame, text="num stories:")
+    num_posts_label = tk.Label(num_posts_label_frame, text="num posts:")
     num_posts_label.pack(side=tk.LEFT)
     num_posts_entry = tk.Entry(num_posts_label_frame)
     num_posts_entry.pack(side=tk.LEFT)
