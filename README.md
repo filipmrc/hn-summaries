@@ -37,9 +37,9 @@ export OPENAI_API_KEY="<your key here>"
 
 2. Run the script:
 
-\```bash
-python scraper.py
-\```
+```bash
+python main.py
+```
 
 3. Enter the number of posts you want to fetch in the "num posts" entry field. 
 
