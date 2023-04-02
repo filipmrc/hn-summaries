@@ -49,5 +49,5 @@ python scraper.py
 
 ## License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is released under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
